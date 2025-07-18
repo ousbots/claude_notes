@@ -2,7 +2,31 @@
 
 ## General Rules
 
-- No open-ended problems or requests
+- No open-ended problems or tasks
+- Keep tasks small and focused
+- Provide appropriate tools for the task (testing, linting, building, MCPs)
+- Start a new session when things go off the rails
+
+
+## Special commands
+
+* Think mode:
+  - think: "think"
+  - megathink: "megathink", "think hard", "think deeply"
+  - ultrathink: "ultrathink", "think intensely", "think super hard"
+* "make a todo"
+* "research"
+* "use agents"
+
+### Think Mode
+  This is claude code's thinking mode that applies a crafted feedback loop to your prompt. The different levels allocate larger blocks of tokens for the feedback loop. The allocation ratios are supposedly: megathink is 2.5x think blocks and ultrathink is 8x think blocks. Ultrathink mode may also apply different or additional feedback loops from the other modes, but that's just a vibe.
+
+### Todo
+
+### Research
+
+### Agents
+
 
 ## Rule Notes
 
